@@ -6,7 +6,7 @@ SatoshiVote: Merging Nostr protocol with the Bitcoin and Lightning networks to c
 First, we would need to set up a system to facilitate the voting process. This could be a website or application where users can participate in the vote. Integrating **Decentralization** principles in the setup phase could enhance the #CensorshipResistance of the platform.
 
 ### User Registration
-Users would need to register --on your platform--, providing a #Bitcoin address where they want their satoshis returned after the vote. Utilizing **Public Key Cryptography** could further secure the user registration process.
+Users would need to register is some way to insure votes are real people and in the locality they say if chosen, providing a #Bitcoin address where they want their satoshis returned after the vote. Utilizing **Public Key Cryptography** could further secure the user registration process.
 
 ### Voting Options
 Define the voting options as well as the associated Bitcoin addresses. Each voting option should have a unique Bitcoin address where users can send their satoshis to cast their vote. The design of voting options could benefit from the **Simplicity And Flexibility** inherent in Nostr, as discussed previously.
