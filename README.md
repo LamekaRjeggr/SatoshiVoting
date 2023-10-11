@@ -1,3 +1,5 @@
+                                                                                                  Vote on concencus threshold in Discussion tab, to help this project. 
+
 # SatoshiVotingMVP
 SatoshiVote: universally accessible voting protocol based on the GOAT (Merging Nostr protocol with the Bitcoin and Lightning networks to create a decentralized, transparent voting methodology and application.)
 ## SatoshiVote System Outline
