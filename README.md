@@ -1,6 +1,9 @@
 # SatoshiVotingMVP
-SatoshiVote: Merging Nostr protocol with the Bitcoin and Lightning networks to create a decentralized, transparent voting methodology and application.
+SatoshiVote: universally accessible voting protocol based on the GOAT (Merging Nostr protocol with the Bitcoin and Lightning networks to create a decentralized, transparent voting methodology and application.)
 ## SatoshiVote System Outline
+
+### Protocol
+To create a universally accessible voting system on Bitcoin or Lightning networks, **consider** a method where votes are represented by transactions sent to specific addresses representing different voting **choices**. Any wallet could send microtransactions to these addresses to vote. The vote tally can be verified by checking the balance or transaction count of these addresses. Implementing a smart contract or a protocol layer like DLCs could further automate vote tallying and verification. This setup promotes wallet-agnostic voting while leveraging the transparency and immutability of blockchain for vote verification.  
 
 ### Setup
 First, we would need to set up a system to facilitate the voting process. This could be a website or application where users can participate in the vote. Integrating **Decentralization** principles in the setup phase could enhance the #CensorshipResistance of the platform.
