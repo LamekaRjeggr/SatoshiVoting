@@ -34,4 +34,5 @@ Display the voting results in real-time or after the voting period has ended. Pr
 - **Testing** 
 
 To ensure the integrity, user-friendliness, and legal compliance of the voting platform.
+
 https://bitcoin.org/bitcoin.pdf
