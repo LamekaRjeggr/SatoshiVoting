@@ -1,9 +1,9 @@
   Vote on the consensus threshold in Discussion tab. 
 
-**Problem**
+### Problem
 There is no method to allow our voice to be heard is a verifiable and easily accessible way. 
 
-**Purpose**
+### Purpose
 A Bitcoin native process that allows anyone to setup a vote about anything and have community controlled verifiying process built by concencus from day one. This is the goal. Bitcoin Timechain referenced or mempool referenced/ low or no fee. 
 
 
