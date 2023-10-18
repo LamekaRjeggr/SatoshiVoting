@@ -1,7 +1,7 @@
   Vote on the consensus threshold in Discussion tab. 
 
 ### Problem
-There is no method to allow our voice to be heard is a verifiable and easily accessible way. 
+There is no method to allow our voice to be heard in a verifiable and easily accessible way. 
 
 ### Purpose
 A Bitcoin native process that allows anyone to setup a vote about anything and have community controlled verifiying process built by concencus from day one. This is the goal. Bitcoin Timechain referenced or mempool referenced/ low or no fee. 
@@ -14,11 +14,6 @@ SatoshiVote: universally accessible voting protocol based on the GOAT (Merging N
 ### Protocol
 To create a universally accessible voting system on Bitcoin or Lightning networks, **consider** a method where votes are represented by transactions sent to specific addresses representing different voting **choices**. Any wallet could send microtransactions to these addresses to vote. The vote tally can be verified by checking the balance or transaction count of these addresses. Implementing a smart contract or a protocol layer like DLCs could further automate vote tallying and verification. This setup promotes wallet-agnostic voting while leveraging the transparency and immutability of blockchain for vote verification.  
 
-### Setup
-First, we would need to set up a system to facilitate the voting process. This could be a website or application where users can participate in the vote. Integrating **Decentralization** principles in the setup phase could enhance the #CensorshipResistance of the platform.
-
-### User Registration
-Users would need to register is some way to insure votes are real people and in the locality they say if chosen, providing a #Bitcoin address where they want their satoshis returned after the vote. Utilizing **Public Key Cryptography** could further secure the user registration process.
 
 ### Voting Options
 Define the voting options as well as the associated Bitcoin addresses. Each voting option should have a unique Bitcoin address where users can send their satoshis to cast their vote. The design of voting options could benefit from the **Simplicity And Flexibility** inherent in Nostr, as discussed previously.
