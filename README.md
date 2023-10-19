@@ -1,4 +1,9 @@
-  Vote on the consensus threshold in Discussion tab. 
+  
+<div align="right">
+Vote on the consensus threshold in Discussion tab. 
+</div>
+
+
 
 ### Problem
 There is no method to allow our voice to be heard in a verifiable and easily accessible way. 
