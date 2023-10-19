@@ -12,8 +12,7 @@ There is no method to allow our voice to be heard in a verifiable and easily acc
 A Bitcoin native process that allows anyone to setup a vote about anything and have community controlled verifiying process built by concencus from day one. This is the goal. Bitcoin Timechain referenced or mempool referenced/ low or no fee. 
 
 
-~~# SatoshiVoting
-SatoshiVote: universally accessible voting protocol based on the GOAT (Merging Nostr protocol with the Bitcoin and Lightning networks to create a decentralized, transparent voting methodology and application.)~~
+
 ## SatoshiVote System Outline
 
 ### Protocol
