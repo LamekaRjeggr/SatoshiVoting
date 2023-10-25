@@ -14,7 +14,7 @@ The search for a verifiable, trustless, transparent, incurruptable and free meth
 ## SatoshiVote System Outline
 
 ### Protocol
-To create a universally accessible open voting process on Bitcoin.  Owned by no one
+To create a universally accessible open voting process with Bitcoin.  Owned by no one
 
 
 
