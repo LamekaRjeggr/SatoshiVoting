@@ -4,7 +4,7 @@
 
 
 ### Problem
-There is no method to allow our voice to be heard in a collective, coherant, verifiable, secure and easily accessible way. 
+There is no method available to ensure our voices are heard in a unified, verifiable, secure, and easily accessible manner.
 
 ### Purpose
 The search for a verifiable, trustless, transparent, incurruptable and free method for voting from any device.  
